@@ -121,7 +121,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Create custom keyboard (bottom buttons) - only menu options
     keyboard = [
         [
-            KeyboardButton(text="GET FREE SPIN ON MrBean9 🎰"),
+            KeyboardButton(text="GET FREE SPIN ON MRBEAN9 🎰"),
             KeyboardButton(text="HOT GAME TIPS CHANNEL 🍒")
         ]
     ]
